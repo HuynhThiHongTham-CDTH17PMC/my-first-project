@@ -1,0 +1,14 @@
+D:\Demo_Unit\ProjectPhanSo.Test\bin\Debug\ProjectPhanSo.Test.dll
+D:\Demo_Unit\ProjectPhanSo.Test\bin\Debug\ProjectPhanSo.Test.pdb
+D:\Demo_Unit\ProjectPhanSo.Test\bin\Debug\nunit-console.exe
+D:\Demo_Unit\ProjectPhanSo.Test\bin\Debug\nunit.framework.dll
+D:\Demo_Unit\ProjectPhanSo.Test\bin\Debug\ProjectPhanSo.exe
+D:\Demo_Unit\ProjectPhanSo.Test\bin\Debug\ProjectPhanSo.pdb
+D:\Demo_Unit\ProjectPhanSo.Test\bin\Debug\ProjectPhanSo.exe.config
+D:\Demo_Unit\ProjectPhanSo.Test\bin\Debug\nunit-console.exe.config
+D:\Demo_Unit\ProjectPhanSo.Test\bin\Debug\nunit.framework.xml
+D:\Demo_Unit\ProjectPhanSo.Test\obj\Debug\ProjectPhanSo.Test.csprojAssemblyReference.cache
+D:\Demo_Unit\ProjectPhanSo.Test\obj\Debug\ProjectPhanSo.Test.csproj.CoreCompileInputs.cache
+D:\Demo_Unit\ProjectPhanSo.Test\obj\Debug\ProjectPhanSo.Test.csproj.CopyComplete
+D:\Demo_Unit\ProjectPhanSo.Test\obj\Debug\ProjectPhanSo.Test.dll
+D:\Demo_Unit\ProjectPhanSo.Test\obj\Debug\ProjectPhanSo.Test.pdb
